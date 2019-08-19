@@ -1,0 +1,10 @@
+integer=2
+numeric=3.0
+print(integer)
+print(numeric)
+typeof(integer)      
+typeof(numeric)
+print(integer+numeric)
+typeof(integer+numeric)
+as.integer(integer)
+typeof(as.integer(integer))
